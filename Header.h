@@ -1,0 +1,15 @@
+#pragma once
+#define _CRT_SECURE_NO_WARNINGS
+#include <stdlib.h>
+#include <stdio.h>
+#include <locale.h>
+#include <string.h>
+#include <stdio.h>
+#include <time.h>
+#include <windows.h>
+#include <conio.h>
+#include <queue>
+#include <iostream>
+#include <fstream>
+#include <assert.h>
+#include <math.h>
